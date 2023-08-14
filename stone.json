@@ -20,15 +20,15 @@
   ],
 "items": [
     {
-      "id": "https://collections.st-andrews.ac.uk/774399/manifest/canvas/436502",
+      "id": "https://raw.githubusercontent.com/pawliko14/iserv/main/stone.json/canvas/0",
       "type": "Canvas",
       "items": [
         {
-          "id": "https://collections.st-andrews.ac.uk/774399/manifest/canvas/436502/annotationpage/0",
+          "id": "https://raw.githubusercontent.com/pawliko14/iserv/main/stone.json/canvas/0/annotationpage/0",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://collections.st-andrews.ac.uk/774399/manifest/canvas/436502/annotation/0",
+              "id": "https://raw.githubusercontent.com/pawliko14/iserv/main/stone.json/canvas/0/annotation/0",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -36,7 +36,7 @@
                 "type": "Model",
                 "format": "model/gltf-binary"     
               },
-              "target": "https://collections.st-andrews.ac.uk/774399/manifest/canvas/436502"
+              "target": "https://raw.githubusercontent.com/pawliko14/iserv/main/stone.json/canvas/0"
             }
           ]
         }
