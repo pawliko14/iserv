@@ -1,0 +1,75 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@type": "sc:Manifest",
+"@id": "https://collections.st-andrews.ac.uk/761844/manifest",
+"label": "Gorilla skull",
+"description": "Gorilla skull",
+"logo": "https://collections.st-andrews.ac.uk/uv/logo.png",
+"metadata": [
+{
+"label": "Identifier",
+"value": "BPM25511"
+},
+{
+"label": "Title",
+"value": "Gorilla skull"
+},
+{
+"label": "Record URL",
+"value": "<a href='https://collections.st-andrews.ac.uk/item/gorilla-skull/761844'>https://collections.st-andrews.ac.uk/item/gorilla-skull/761844</a>"
+},
+{
+"label": "Department",
+"value": "Museums"
+},
+{
+"label": "Collection",
+"value": "<a href='https://collections.st-andrews.ac.uk/collection/zoology-bell-pettigrew-museum/1004091'>Zoology (Bell Pettigrew Museum)</a>"
+},
+{
+"label": "Parent",
+"value": "<a href='https://collections.st-andrews.ac.uk/collection/zoology-bell-pettigrew-museum/1004091'>Zoology (Bell Pettigrew Museum)</a> (Collection)"
+},
+{
+"label": "Record level",
+"value": "Item"
+},
+{
+"label": "Credit line",
+"value": "Image Courtesy of the University of St Andrews Library, ID BPM25511"
+},
+{
+"label": "IRN",
+"value": "761844"
+},
+{
+"label": "Image delivery",
+"value": "Working in partnership with <a href='https://kakadusoftware.com/'>Kakadu</a> to deliver high quality image reproductions via IIIF."
+}
+],
+"items": [
+{
+"id": "https://collections.st-andrews.ac.uk/761844/manifest/canvas/401235",
+"type": "Canvas",
+"items": [
+{
+"id": "https://collections.st-andrews.ac.uk/761844/manifest/canvas/401235/annotationpage/0",
+"type": "AnnotationPage",
+"items": [
+{
+"id": "https://collections.st-andrews.ac.uk/761844/manifest/canvas/401235/annotation/0",
+"type": "Annotation",
+"motivation": "painting",
+"body": {
+"id": "https://collections.st-andrews.ac.uk/media/401235/401235.glb",
+"type": "Model",
+"format": "model/gltf-binary"
+},
+"target": "https://collections.st-andrews.ac.uk/761844/manifest/canvas/401235"
+}
+]
+}
+]
+}
+]
+}
