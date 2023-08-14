@@ -1,7 +1,7 @@
 {
  "@context": "http://iiif.io/api/presentation/2/context.json",
   "@type": "sc:Manifest",
-  "@id": "https://collections.st-andrews.ac.uk/774399/manifest",
+  "@id": "https://raw.githubusercontent.com/pawliko14/iserv/main/stone.json",
   "label": "galena, sphalerite, pyrrhotite",
   "description": "banded ore. Galena as soak texture. Two specimens, one cut.",
   "logo": "https://collections.st-andrews.ac.uk/uv/logo.png",  
