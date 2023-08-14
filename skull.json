@@ -61,7 +61,7 @@
 "type": "Annotation",
 "motivation": "painting",
 "body": {
-"id": "https://github.com/de09aaba-e77f-4119-9ff0-0f23ba0aa8eb",
+"id": "https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/2CylinderEngine/glTF-Binary/2CylinderEngine.glb",
 "type": "Model",
 "format": "model/gltf-binary"
 },
