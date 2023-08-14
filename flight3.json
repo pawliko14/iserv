@@ -20,7 +20,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "https://iiif-3d-manifests.netlify.app/collection/gltf/astronaut/_astronaut/assets/Astronaut.glb",
+                "id": "https://github.com/google/model-viewer/raw/master/packages/shared-assets/models/Astronaut.glb",
                 "type": "Model",
                 "format": "model/gltf+json",
                 "label": {
