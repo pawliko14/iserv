@@ -8,15 +8,11 @@
   "metadata": [
     { "label": "Identifier", "value": "GE10209.1"},
     { "label": "Title", "value": "galena, sphalerite, pyrrhotite"},
-    { "label": "Record URL", "value": "<a href='https://collections.st-andrews.ac.uk/item/galena-sphalerite-pyrrhotite/774399'>https://collections.st-andrews.ac.uk/item/galena-sphalerite-pyrrhotite/774399</a>"},      
      { "label": "Department", "value": "Museums" },
     { "label": "Collection", "value": "<a href='https://collections.st-andrews.ac.uk/collection/geology-collection/1004098'>Geology Collection</a>" },
     { "label": "Record level", "value": "Item" },  
      { "label": "Credit line", "value": "Image Courtesy of the University of St Andrews Library, ID GE10209.1" },
-    
-    { "label": "IRN", "value": "774399"},  
-    { "label": "Image delivery", "value": "Working in partnership with <a href='https://kakadusoftware.com/'>Kakadu</a> to deliver high quality image reproductions via IIIF."}
-    
+    { "label": "IRN", "value": "774399"},      
   ],
 "items": [
     {
