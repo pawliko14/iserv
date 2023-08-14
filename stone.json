@@ -1,8 +1,3 @@
-        
-       
-        
-        
-             
 {
  "@context": "http://iiif.io/api/presentation/2/context.json",
   "@type": "sc:Manifest",
@@ -13,14 +8,7 @@
   "metadata": [
     { "label": "Identifier", "value": "GE10209.1"},
     { "label": "Title", "value": "galena, sphalerite, pyrrhotite"},
-    
-
-   
-
-
-
     { "label": "Record URL", "value": "<a href='https://collections.st-andrews.ac.uk/item/galena-sphalerite-pyrrhotite/774399'>https://collections.st-andrews.ac.uk/item/galena-sphalerite-pyrrhotite/774399</a>"},      
-
      { "label": "Department", "value": "Museums" },
     { "label": "Collection", "value": "<a href='https://collections.st-andrews.ac.uk/collection/geology-collection/1004098'>Geology Collection</a>" },
     { "label": "Record level", "value": "Item" },  
